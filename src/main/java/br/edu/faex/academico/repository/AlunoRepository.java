@@ -3,6 +3,7 @@ package br.edu.faex.academico.repository;
 
 import br.edu.faex.academico.config.Conexao;
 import br.edu.faex.academico.model.Aluno;
+import br.edu.faex.academico.model.Curso;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
